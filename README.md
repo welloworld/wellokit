@@ -8,6 +8,8 @@ run `./installer.sh` for installing the packages
 run `./copy_bashrc.sh` for adding the functionality to your machine (You'll need to open new terminal/tab)
 
 
+
+
 The wellokit includes two main things:
 * Package manager, that installs the following packages:
 
