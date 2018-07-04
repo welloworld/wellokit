@@ -1,6 +1,13 @@
 Wellcome to the wellokit! 
 Your best tool to get the same enviroment for each of your machines.
 
+<b> How to use: </b>
+
+run `./installer.sh` for installing the packages
+
+run `./copy_bashrc.sh` for adding the functionality to your machine (You'll need to open new terminal/tab)
+
+
 The wellokit includes two main things:
 * Package manager, that installs the following packages:
 
@@ -71,7 +78,6 @@ The wellokit includes two main things:
 
 The wellokit shall continue to improves itself with more packages, modules and important aliases.
 
-<b> How to use: </b>
 
 Thanks a lot,
 welloworld 
