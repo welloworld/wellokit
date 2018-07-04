@@ -71,5 +71,7 @@ The wellokit includes two main things:
 
 The wellokit shall continue to improves itself with more packages, modules and important aliases.
 
+<b> How to use: </b>
+
 Thanks a lot,
 welloworld 
