@@ -3,10 +3,9 @@ Your best tool to get the same enviroment for each of your machines.
 
 <b> How to use: </b>
 
-run `./installer.sh` for installing the packages
+run `./installer.sh` for installing the packages (You'll need to open new terminal/tab for the bashrc things)
 
-run `./copy_bashrc.sh` for adding the functionality to your machine (You'll need to open new terminal/tab)
-<br><br>
+
 The wellokit includes two main things:
 * Package manager, that installs the following packages:
 
