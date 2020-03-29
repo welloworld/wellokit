@@ -1,4 +1,5 @@
 Wellcome to the wellokit! 
+
 Your best tool to get the same enviroment for each of your machines.
 
 <b> How to use: </b>
@@ -8,8 +9,7 @@ run `./installer.sh` for installing the packages (You'll need to open new termin
 
 The wellokit includes two main things:
 * Package manager, that installs the following packages:
-
-	** Vim
+	* Vim
 
 	** Ipython2 && Ipython3
 	
